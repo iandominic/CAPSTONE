@@ -10,8 +10,6 @@ public class restartRound : MonoBehaviour
     public GameObject howToPlay;
     public GameObject gamover;
 
-
-
     private HowToPlayGameStart gameover;
 
     int gameOver;
