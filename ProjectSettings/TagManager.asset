@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MusicMainBg
+  - ButtonMusicClick
+  - assets
+  - Talk
+  - pulis_two
+  - pulis_one
+  - test
+  - Detection
+  - machoman
+  - police_main
+  - tambay
+  - NPC
+  - iwasan
+  - tambay_female
+  - desti_female
+  - tambay_male
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - MusicMainBg
+  - ButtonMusicClick
+  - assets
+  - Player
+  - Talk
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 82176803
+    locked: 0
